@@ -1,9 +1,7 @@
 # List-Zemetis-Models
 List all the models in Zementis Cloud and inputs/outputs
 
-![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/master/Screenshot/Illustration3.png)
-![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/master/Screenshot/Illustration4.png)
-
+![Map](![Map](https://raw.githubusercontent.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/master/Screenshot/Illustration4.png)
 
 
 ---
