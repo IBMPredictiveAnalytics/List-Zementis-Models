@@ -54,7 +54,7 @@ Contributors
 [3]:https://github.com/IBMPredictiveAnalytics/List-Zementis-Models/raw/master/Source%20code/ZementisGetModels4.cfe
 [4]:https://cran.r-project.org/web/packages/httr/index.html
 [5]:https://github.com/IBMPredictiveAnalytics/List-Zementis-Models/blob/master/Documentation/Zementis-SPSSModelerExtension.pdf
-[6]:https://github.com/IBMPredictiveAnalytics/Upload-Model-To-Zementis/tree/master/Example
+[6]:https://github.com/IBMPredictiveAnalytics/List-Zementis-Models/tree/master/Example
 [10]:https://developer.ibm.com/predictiveanalytics/2015/03/11/tweets-during-esri-dev-summit-and-bnp-paribas-open/
 [11]:https://cran.r-project.org/web/packages/plyr/
 [12]:https://developer.ibm.com/predictiveanalytics/2015/03/11/crime-prediction-using-ibm-spss-modeler-and-arcgis/
